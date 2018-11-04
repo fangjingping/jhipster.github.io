@@ -1,4 +1,5 @@
 中文翻译版：（如果需要原版请点击->[show jhipster's README](https://github.com/jhipster/jhipster.github.io/blob/master/README.md)）
+
 这是 JHipster 的公共 [页面](https://www.jhipster.tech/)源码。
 =======
 
